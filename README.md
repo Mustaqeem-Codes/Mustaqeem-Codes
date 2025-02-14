@@ -1,8 +1,9 @@
+![Github Logo](https://github.com/user-attachments/assets/847b3b00-2235-4fa2-9d34-21b7624f1d02)
 
 <h1 align="center">Hi 👋, I'm Mustaqeem</h1>
 <h3 align="center">A passionate Programmer and Web Developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="../Mustaqeem.bytewisdom.tech/Github/coding.gif">
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **C#, Database SQL, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mustaqeem-Codes](https://github.com/Mustaqeem-Codes)
