@@ -1,4 +1,4 @@
-![Github Logo](https://github.com/user-attachments/assets/847b3b00-2235-4fa2-9d34-21b7624f1d02)
+![Github Logo](https://github.com/![Uploading Banner.jpg…]())
 
 <h1 align="center">Hi 👋, I'm Mustaqeem</h1>
 <h3 align="center">A passionate Programmer and Web Developer from Pakistan</h3>
