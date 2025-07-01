@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mustaqeem.uet@gmail.com**
 
-- ⚡ Real fact **Everyone should learn programming, it teaches you how to think.**
+- ⚡ Real fact **"Everyone should learn programming, it teaches you how to think."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
