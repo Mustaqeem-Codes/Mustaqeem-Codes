@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Programmer and Web Developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-- 🌱 I’m currently learning **C#, Database SQL, JavaScript**
+- 🌱 I’m currently learning **Python, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mustaqeem-Codes](https://github.com/Mustaqeem-Codes)
 
@@ -38,8 +38,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <!-- Database Icon -->
-<a href="#" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/2799/2799723.png" alt="database" width="40" height="40"/>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
 </p>
 
