@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **mustaqeem.uet@gmail.com**
 
-- 📝 I write articles on [https://bytewisdom.tech](https://bytewisdom.tech)
-
 - ⚡ Real fact **Everyone should learn programming, it teaches you how to think.**
 
 <h3 align="left">Connect with me:</h3>
