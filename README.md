@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://Mustaqeem.bytewisdom.tech](https://Mustaqeem.bytewisdom.tech)
 
-- 💬 Ask me about **C++, AICT, HTML, CSS**
+- 💬 Ask me about **C++, AICT, HTML, CSS, Database SQL, C#**
 
 - 📫 How to reach me **mustaqeem.uet@gmail.com**
 
