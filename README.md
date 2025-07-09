@@ -1,5 +1,4 @@
-![Github Logo](https://github.com/Mustaqeem-Codes/Mustaqeem-Codes/blob/main/Banner.jpg))
-
+![Github Logo](https://github.com/Mustaqeem-Codes/Mustaqeem-Codes/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Mustaqeem</h1>
 <h3 align="center">A passionate Programmer and Web Developer from Pakistan</h3>
 
