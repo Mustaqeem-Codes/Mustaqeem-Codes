@@ -1,5 +1,5 @@
 ![Github Logo](https://github.com/Mustaqeem-Codes/Mustaqeem-Codes/blob/main/Banner.jpg)
-<h1 align="center">Hi 👋, I'm Mustaqeem</h1>
+<h1 align="center" style = "color:cyan;">Hi 👋, I'm Mustaqeem</h1>
 <h3 align="center">A passionate Programmer and Web Developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
