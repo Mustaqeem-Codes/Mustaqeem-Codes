@@ -8,21 +8,18 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td>
-      🌱 Currently learning **Computer Networks, DSA, and React** <br/>
-      👨‍💻 All of my projects are available here: <a href="https://github.com/Mustaqeem-Codes">GitHub Repositories</a> <br/>
-      📄 Learn more about my journey: <a href="https://mustaqeem-codes.github.io/">My Portfolio</a> <br/>
-      💬 Ask me about **C++, HTML, CSS, C#, Databases, OOP, Python, and JS** <br/>
-      📫 Reach me at **mustaqeem.uet@gmail.com** <br/>
-      ⚡ Real fact: *“Everyone should learn programming, it teaches you how to think.”*
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" style="border-radius:10px;" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div>
+    🌱 Currently learning **Computer Networks, DSA, and React**  
+    👨‍💻 All of my projects are available here: [GitHub Repositories](https://github.com/Mustaqeem-Codes)  
+    📄 Learn more about my journey: [My Portfolio](https://mustaqeem-codes.github.io/)  
+    💬 Ask me about **C++, HTML, CSS, C#, Databases, OOP, Python, and JS**  
+    📫 Reach me at **mustaqeem.uet@gmail.com**  
+    ⚡ Real fact: *“Everyone should learn programming, it teaches you how to think.”*
+  </div>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" style="margin-left:20px; border-radius:10px;" alt="Coding GIF"/>
+</div>
+
 
 ---
 
