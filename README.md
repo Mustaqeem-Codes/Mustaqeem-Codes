@@ -8,20 +8,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 Currently learning **Python, JavaScript, React, and PostgreSQL**  
-- 👨‍💻 All of my projects are available here: [GitHub Repositories](https://github.com/Mustaqeem-Codes)  
+- 🌱 Currently learning **Computer Networks, DSA and React**  
+- 👨‍💻 All of my projects are available here: [GitHub Repositories](https://github.com/Mustaqeem-Codes?tab=repositories)  
 - 📄 Learn more about my journey: [My Portfolio](https://Mustaqeem.bytewisdom.tech)  
-- 💬 Ask me about **C++, C#, HTML, CSS, Databases, OOP**  
+- 💬 Ask me about **C++, HTML, CSS, C#, Databases, OOP, Python and JS**  
 - 📫 Reach me at **mustaqeem.uet@gmail.com**  
 - ⚡ Real fact: *“Everyone should learn programming, it teaches you how to think.”*  
 
 ---
 
 ## 🚀 Featured Projects  
-🔹 [Airline Management System](#) (C++) – Console-based system applying OOP principles  
+🔹 [Airline Management System](#) (C++) – Console-based system with file handling as Data Storage
 🔹 [Job Portal Management System](#) (C# + Oracle DB) – Desktop job portal with CRUD operations  
 🔹 [Finance & Expense Tracker (In Progress)](#) – Full-stack app for individuals & companies  
-🔹 [Portfolio Website](https://mustaqeem-codes.github.io) – My personal showcase site  
+🔹 [Portfolio Website](https://Mustaqeem.bytewisdom.tech) – My personal showcase site  
 
 ---
 
@@ -52,12 +52,5 @@
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustaqeem-Codes&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustaqeem-Codes&layout=compact&theme=tokyonight)  
-
----
-
-## 🎯 Future Plans  
-- 📱 Release my **Finance App** on Google Play + Web App  
-- 🌍 Expand into **freelance software solutions**  
-- 🚀 Build my own **tech startup** from the ground up  
 
 ---
