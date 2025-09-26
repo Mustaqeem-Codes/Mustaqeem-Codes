@@ -27,7 +27,7 @@
 ---
 
 ## 🚀 Featured Projects  
-🔹 [Airline Management System](#) (C++) – Console-based system with file handling as Data Storage
+🔹 [Airline Management System](#) (C++) – Console-based system with file handling as Data Storage<br>
 🔹 [Job Portal Management System](#) (C# + Oracle DB) – Desktop job portal with CRUD operations  
 🔹 [Finance & Expense Tracker (In Progress)](#) – Full-stack app for individuals & companies  
 🔹 [Portfolio Website](https://Mustaqeem.bytewisdom.tech) – My personal showcase site  
@@ -61,7 +61,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
   <a href="https://mustaqeem-codes.github.io/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" height="30" width="40" />
+    <img align="center" src="https://github.com/Mustaqeem-Codes/mustaqeem-codes.github.io/blob/main/Pics/logo.png" height="30" width="40" />
   </a>
 </p>
 
