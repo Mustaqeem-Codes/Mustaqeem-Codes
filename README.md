@@ -17,7 +17,7 @@
       👨‍💻 All of my projects are available here: <a href="https://github.com/Mustaqeem-Codes">GitHub Repositories</a> <br/>
       📄 Learn more about my journey: <a href="https://mustaqeem-codes.github.io/">My Portfolio</a> <br/>
       💬 Ask me about <b>C++, HTML, CSS, C#, Databases, OOP, Python, and JS</b> <br/>
-      📫 Reach me at <b>mustaqeem.uet@gmail.com</b> <br/>
+      📫 Reach me at <a href="mailto:mustaqeem.uet@gmail.com"><b>mustaqeem.uet@gmail.com</b></a> <br/>
       ⚡ Real fact: <i>“Everyone should learn programming, it teaches you how to think.”</i>
     </td>
     <td width="35%" align="center">
