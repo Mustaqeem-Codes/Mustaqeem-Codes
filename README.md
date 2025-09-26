@@ -1,6 +1,8 @@
 ![Github Logo](https://github.com/Mustaqeem-Codes/Mustaqeem-Codes/blob/main/Banner.jpg)
 <h1 align="center" style = "color:cyan;">Hi 👋, I'm Mustaqeem</h1>
-<h3 align="center">A passionate Programmer and Backend Developer from Pakistan</h3>
+<h3 align="center">🎓 Bachelor’s in Computer Science (BSCS) — University of Engineering and Technology (UET), Lahore, Pakistan<br>
+💻 Passionate Programmer & Backend Developer | Focused on building scalable web & desktop applications<br>
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **Python, JavaScript**
