@@ -1,4 +1,4 @@
-![Github Logo](https://github.com/Mustaqeem-Codes/Mustaqeem-Codes/blob/main/Banner.jpg)
+![Github Logo](https://github.com/Mustaqeem-Codes/Mustaqeem-Codes/blob/main/Banner.png)
 
 <h1 align="center" style="color:cyan;">Hi 👋, I'm Mustaqeem</h1>
 <h3 align="center">
