@@ -1,6 +1,6 @@
-![Github Logo](https://github.com/Mustaqeem-Codes/Mustaqeem-Codes/blob/main/Banner.png)
+![Mustaqeem's Banner](https://raw.githubusercontent.com/Mustaqeem-Codes/Mustaqeem-Codes/main/Banner.png)
 
-<h1 align="center" style="color:cyan;">Hi 👋, I'm Mustaqeem</h1>
+<h1 align="center">Hi 👋, I'm Mustaqeem</h1>
 <h3 align="center">
 🎓 Bachelor’s in Computer Science (BSCS) — University of Engineering and Technology (UET), Lahore, Pakistan <br>
 💻 Passionate Programmer & Backend Developer | Focused on building scalable web, mobile & desktop applications
@@ -18,7 +18,7 @@
       📄 Learn more about my journey: <a href="https://mustaqeem-codes.github.io/">My Portfolio</a> <br/>
       💬 Ask me about <b>C++, HTML, CSS, C#, Databases, OOP, Python, and JS</b> <br/>
       📫 Reach me at <a href="mailto:mustaqeem.uet@gmail.com"><b>mustaqeem.uet@gmail.com</b></a> <br/>
-      ⚡ Real fact: <i>“Everyone should learn programming, it teaches you how to think.”</i>
+      ⚡ Fun fact: <i>“Everyone should learn programming, it teaches you how to think.”</i>
     </td>
     <td width="35%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" style="border-radius:10px;" alt="Coding GIF"/>
@@ -32,7 +32,7 @@
 🔹 <b>Airline Management System</b> (C++) – Console-based system with file handling as Data Storage <br>
 🔹 <b>Job Portal Management System</b> (C# + Oracle DB) – Desktop job portal with CRUD operations <br>
 🔹 <b>Finance & Expense Tracker (In Progress)</b> – Full-stack app for individuals & companies <br>
-🔹 <b><a href="https://Mustaqeem.bytewisdom.tech">Portfolio Website</a></b> – My personal showcase site  
+🔹 <b><a href="https://Mustaqeem-Codes.github.io/">Portfolio Website</a></b> – My personal showcase site  
 
 ---
 
@@ -53,22 +53,24 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-mustaqeem-95656b331/" target="blank">
+  <a href="https://www.linkedin.com/in/muhammad-mustaqeem-95656b331/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://web.facebook.com/MustaqeemCodes" target="blank">
+  <a href="https://web.facebook.com/MustaqeemCodes" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/mustaqeem_codes/#" target="blank">
+  <a href="https://www.instagram.com/mustaqeem_codes/#" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://Mustaqeem.bytewisdom.tech" target="blank">
-    <img align="center" src="https://github.com/Mustaqeem-Codes/mustaqeem-codes.github.io/blob/main/Pics/logo.png" height="30" width="40" />
+  <a href="https://Mustaqeem.bytewisdom.tech" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/Mustaqeem-Codes/mustaqeem-codes.github.io/main/Pics/logo.png" height="30" width="40" />
   </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustaqeem-Codes&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustaqeem-Codes&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustaqeem-Codes&show_icons=true&theme=tokyonight&t=1" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mustaqeem-Codes&layout=compact&theme=tokyonight&t=1" alt="Top Languages" />
+</p>
