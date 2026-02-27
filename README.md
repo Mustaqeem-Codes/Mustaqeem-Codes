@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="65%">
-      🌱 Currently learning <b>Computer Networks, DSA, and React</b> <br/>
+        🌱 Currently learning <b>Assembly Lnaguage, AI, Information Security and Advance Database</b> <br/>
       👨‍💻 All of my projects are available here: <a href="https://github.com/Mustaqeem-Codes">GitHub Repositories</a> <br/>
       📄 Learn more about my journey: <a href="https://mustaqeem-codes.github.io/">My Portfolio</a> <br/>
       💬 Ask me about <b>C++, HTML, CSS, C#, Databases, OOP, Python, and JS</b> <br/>
