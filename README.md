@@ -1,4 +1,4 @@
-![Mustaqeem's Banner](https://raw.githubusercontent.com/Mustaqeem-Codes/Mustaqeem-Codes/main/Banner)
+![Mustaqeem's Banner](https://raw.githubusercontent.com/Mustaqeem-Codes/Mustaqeem-Codes/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mustaqeem</h1>
 <h3 align="center">
